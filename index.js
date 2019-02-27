@@ -10,8 +10,8 @@ async function post() {
 		const index = Math.random() * kanji.length | 0
 		status += kanji[index]
 	}
-	console.log(status)
-	// twitter.postStatus(status)
+	// console.log(status)
+	twitter.postStatus(status)
 }
 post()
 setInterval(() => {
