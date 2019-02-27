@@ -1,4 +1,4 @@
-const twitter = require("./twitterAPI-wrapper")
+const twitter = require("./twitter")
 const dailyuse = require("./dailyuse-kanji.json").dailyuse
 const kanji = dailyuse
 
