@@ -16,7 +16,5 @@
     "url": "https://github.com/tomo-Gomibako/gengo-generator/issues"
   },
   "homepage": "https://github.com/tomo-Gomibako/gengo-generator#readme",
-  "dependencies": {
-    "twitter": "^1.7.1"
-  }
+  "dependencies": {}
 }
